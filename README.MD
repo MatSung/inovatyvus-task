@@ -45,3 +45,6 @@ The format is in JSON as follows
     - if it does not generate the app key automatically, run `php artisan key:generate`
 5. Finally, run `php artisan migrate`, you may add `--seed` to also seed a few trucks into the db
 6. The project is now reachable through localhost (default port `80`)
+
+## postman
+You may use the postman file provided to quickly setup testing.
